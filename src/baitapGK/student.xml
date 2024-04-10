@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Tran Ngoc Quy</name>
+        <address>Hue</address>
+        <dateOfBirth>2005-11-13</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Nguyen Duong Bao Phuc</name>
+        <address>Khanh Hoa</address>
+        <dateOfBirth>2005-01-01</dateOfBirth>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Dang Quoc Bao</name>
+        <address>Da Nang</address>
+        <dateOfBirth>2001-01-01</dateOfBirth>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Nguyen Thanh Dat</name>
+        <address>Ha Noi</address>
+        <dateOfBirth>2006-01-01</dateOfBirth>
+    </student>
+    </students>
